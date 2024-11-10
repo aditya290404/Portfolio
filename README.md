@@ -44,6 +44,5 @@ Connect with me on:
 LinkedIn: https://www.linkedin.com/in/adityaprasad29/
 GitHub: https://github.com/aditya290404
 Email: 29adityaprasad@gmail.com
-                 ____________________________________________________X____________________________________X____________________________________________________
 
 Thank you for visiting my portfolio repository! I look forward to feedback, collaborations, and new connections in the tech community. Let's build and learn together!
